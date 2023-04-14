@@ -57,7 +57,7 @@ body {
 /*header section*/
 .hero_area {
     height: 100vh;
-    background-image: url(https://raw.githubusercontent.com/Gertnoka/EVENT-WEBSITE/main/EVENT%20TRANSPARENT.png);
+    background-image: url(../images/hero-bg.jpg);
     background-size: cover;
     position: relative;
     background-repeat: no-repeat;
